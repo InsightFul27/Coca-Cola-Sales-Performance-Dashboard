@@ -82,7 +82,7 @@ The dataset contains Coca-Cola retail sales records including:
 
 ## Dashboard Preview
 
-![Dashboard Preview](Dashboard_Preview.png)
+![Dashboard Preview](IMG_20260618_211637_995.png)
 
 
 
